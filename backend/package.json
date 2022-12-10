@@ -12,7 +12,7 @@
     "axios": "^0.19.0",
     "body-parser": "^1.18.3",
     "dialogflow": "^0.10.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "request": "^2.88.0",
     "robinhood": "^1.6.4",
